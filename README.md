@@ -2,7 +2,7 @@
 <br>
 Simple GUI that lets you lookup Minecraft accounts with their uuid or username
 <br>
-Uses python
+I'm still very new to coding with python so may not be coded the best
 <h2>
   Packages Used:
 </h2>
