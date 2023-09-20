@@ -1,4 +1,4 @@
-# Minecraft Account Lookup
+# Minecraft Account Lookup ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br>
 Simple GUI that lets you lookup Minecraft accounts with their uuid or username
 <br>
